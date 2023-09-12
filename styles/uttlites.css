@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    scroll-behavior: smooth;
+    /* background-color: black;
+    color: #fff; */
+}
+
+.Hero2{
+    margin: 0;
+    padding:0 ;
+}
