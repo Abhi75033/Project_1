@@ -5,11 +5,15 @@
 
 body{
     scroll-behavior: smooth;
-    /* background-color: black;
-    color: #fff; */
+   
+    color: #fff; 
 }
 
 .Hero2{
     margin: 0;
     padding:0 ;
+    transition: 3s ease-in-out;
+    background-color: brown;
+    margin-top: 1px;
 }
+
